@@ -1,8 +1,8 @@
-# CREWAI experiments
+# Agent AI experiments
 
 ------ 
 
-For my experiments with CrewAI, I decided to try 3 different projects, starting from the easiest to the most complex. The aim of the experiments was to have a team of AI agents do following work for me:
+For my experiments with Agent AI, I decided to try 3 different projects, starting from the easiest to the most complex. The aim of the experiments was to have a team of AI agents do following work for me:
 1. Examine my Startup idea
 2. Build AI newsletter with Google SERP
 3. Build AI newsletter with Reddit Scraper 
